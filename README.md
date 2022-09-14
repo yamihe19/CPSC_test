@@ -1,9 +1,9 @@
 # CPSC_test
 This is a example of a report 
 
-#Description
+# Description
 This is a sample project for leaning github 
 
-#Instalations 
+# Instalations 
 
-#Requirements 
+# Requirements 
