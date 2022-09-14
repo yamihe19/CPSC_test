@@ -4,6 +4,6 @@ This is a example of a report
 # Description
 This is a sample project for leaning github 
 
-# Instalations 
+# Installation
 
 # Requirements 
